@@ -1,0 +1,10 @@
+PODS:
+  - UITextField-Blocks (0.1.2)
+
+DEPENDENCIES:
+  - UITextField-Blocks (~> 0.1.2)
+
+SPEC CHECKSUMS:
+  UITextField-Blocks: eacdb376ba6df70a1d6fad1d3402188d79e34803
+
+COCOAPODS: 0.26.2
